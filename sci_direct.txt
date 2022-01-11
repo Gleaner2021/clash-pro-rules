@@ -8,3 +8,4 @@ payload:
   - '+.edu.cn'
   - '+.ac.cn'
   - '+.cas.cn'
+  - '+.wiley.com'
