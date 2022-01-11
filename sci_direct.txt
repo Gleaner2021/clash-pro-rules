@@ -1,0 +1,10 @@
+payload:
+  - '+.nature.com'
+  - '+.science.org'
+  - '+.pnas.org'
+  - '+.elsevier.com'
+  - '+.springer.com'
+  - '+.webofknowledge.com'
+  - '+.edu.cn'
+  - '+.ac.cn'
+  - '+.cas.cn'
